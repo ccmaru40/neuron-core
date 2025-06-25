@@ -1,0 +1,36 @@
+h1{
+
+    text-align: center;
+    color: palegreen;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    letter-spacing: 20px;
+    text-shadow: 2px 2px 4px blue;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+p{
+    color: black;
+    text-align: justify;
+    text-align-last: right;
+    text-transform: lowercase;
+    text-indent: 10px;
+    word-spacing: 10%;
+    font-weight: bold;
+    font-variant: small-caps;
+    background-color: aqua;
+    font-size: 3vw;
+}
+.hello{
+   
+    padding: 1px;
+
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-image: url(https://preview.redd.it/i-need-your-goofiest-pics-of-luffy-v0-63jfdthun02d1.jpeg?width=639&format=pjpg&auto=webp&s=81dc02a08db487a83469863ebbbcdd61307b49ce);
+    background-repeat: no-repeat;
+    font-family: Tangerine;
+}

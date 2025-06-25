@@ -1,0 +1,37 @@
+#a{
+    color: blue;
+    padding: 30px;
+    
+}
+#g{
+    color: red;
+    padding: 30px;
+}
+#cc{
+    background-color: aqua;
+    
+   
+}
+#d{
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/d/d1/Ninja_Hattori-kun_C76.jpg);
+    background-repeat: no-repeat;
+    background-color: yellow;
+    
+}
+#f{
+    color: green;
+    padding: 30px;
+}
+#h{
+    color: palevioletred;
+    padding: 30px;
+}
+#i{
+    color: black;
+    padding: 30px;
+}
+#k{
+    background-image: url(https://www.pokewiki.de/images/thumb/f/f4/Pok%C3%A9monsprite_291_Schillernd_SWSH.gif/128px-Pok%C3%A9monsprite_291_Schillernd_SWSH.gif);
+    background-repeat: no-repeat;
+}
+

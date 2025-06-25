@@ -1,0 +1,37 @@
+#one{
+    color: rgb(233, 12, 41);
+border:2px solid black;
+border-color: azure;
+
+}
+body{
+    background-color: blue;
+    border: 2px solid;
+}
+#two{
+    background-color: black
+}
+#three{
+    color: aliceblue;
+    border: 2px solid palevioletred;
+}
+#three{
+    background-color: brown;
+}
+body{
+    background-image: url(https://imgs.search.brave.com/aez9vMGuha37x-beR-N_maIW1ist5pRPWZGaGqqdGcg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/aS1uZWVkLXlvdXIt/Z29vZmllc3QtcGlj/cy1vZi1sdWZmeS12/MC01Znd0d3dxNGkx/MmQxLmpwZWc_d2lk/dGg9NzM2JmZvcm1h/dD1wanBnJmF1dG89/d2VicCZzPWNjNWY2/MTM5OTVkY2QwNGNl/N2IyZWE3ZmFjYzA0/ZjM3ODdkNDM2OTU);
+    background-size: cover;
+    background-repeat: no-repeat ;
+    background-position: right; 
+    background-attachment: fixed;
+}
+
+div{
+      border-style: dotted dashed solid double;
+      border-color:whitesmoke;
+      border: 1px solid wheat;
+      border-radius: 10%;
+       margin: top 25px right 25px left 25px ;
+      
+     
+}
